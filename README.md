@@ -14,14 +14,16 @@ The Network Interface Monitor is a powerful and user-friendly application design
 
 ## Installation
 
-To install the necessary dependencies, create a `requirements.txt` file with the following content:
+install the necessary dependencies on `requirements.txt` file with the following content:
 
 plaintext
 PyQt5
 psutil
 requests
 
-Then, run the following command: pip install -r requirements.txt
+run the following command:
+
+pip install -r requirements.txt
 
 ## Usage
 
